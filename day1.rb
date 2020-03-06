@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 # This program runs a thing
+# Add some comment in day1.rb
 class Day1
   def initialize(fuel_modules)
     @fuel_modules = fuel_modules
